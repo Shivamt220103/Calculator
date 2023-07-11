@@ -1,0 +1,43 @@
+body{
+    background-color:#f7786b; 
+}
+
+.w{
+    font-family: cursive;
+    font-size: 40px;
+    position: relative;
+    top: 50%;
+    left: -10%;
+    margin: 40px;
+    
+}
+
+.q{
+    position: relative;
+    left: 50%;
+}
+
+input[type="button"]{
+    text-align: center;
+  border-radius: 50%;
+  background-color: white;
+  background: outset;
+  color: black;
+  width: 75%;
+  
+ 
+}
+
+table{
+    background-color :#c94c4c;
+    border-radius: 10px;
+    height: 250px;
+    width: 220px;
+    position: relative;
+    top: 30% ;right: 5%;
+    
+}
+
+input:hover{
+    background-color: violet;
+}
